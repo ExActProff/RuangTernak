@@ -1,0 +1,42 @@
+.jumbotron {
+    background-image: url(./assets/img/2b58ed16-fbc1-4cee-aab6-de7baaed6b10.jpeg);
+    background-size: cover;
+    height: 720px;
+    text-align: center;
+    /* margin-top: -120px; */
+}
+.jumbotron .display-4 {
+    color: 	whitesmoke;
+    margin-top: 200px;
+}
+.jumbotron p {
+    color: white;
+    font-size: 20px;
+}
+.jumbotron hr {
+    border-color: white;
+    width: 70px;
+    border-width: 3px;
+}
+.jumbotron .btn {
+    background-color: green ;
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 4px;
+}
+
+.fa-star {
+    color: 	#FFD700;
+}
+.fa-star-half-alt {
+    color: 	#FFD700;
+}
+
+.fa-youtube{
+    color: red;
+}
+.fa-facebook{
+    color: blue;
+}
